@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-What is machine learning?,a: A field of study in artificial intelligence concerned with the development and study of statistical algorithms | b: A field of study in robotics concerned with building physical machines | c: A field of study in biology concerned with plant growth patterns | d: A field of study in chemistry concerned with chemical reactions,a
-Who coined the term 'machine learning'?,a: Alan Turing | b: Donald Hebb | c: Arthur Samuel | d: Tom M. Mitchell,c
-What is the synonym used for 'machine learning' in the early days?,a: Self-teaching computers | b: Artificial intelligence | c: Statistical algorithms | d: Data mining,a
-What mathematical foundations are provided for machine learning?,a: Linear algebra | b: Calculus | c: Mathematical optimization | d: Geometry,c
-What is the main purpose of modern-day machine learning algorithms?,a: To confuse data scientists | b: To make predictions for future outcomes based on models | c: To classify data based on random guesses | d: To create chaos in the field of artificial intelligence,b
+What is machine learning?,a: A field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data | b: A field of study in computer science that focuses on building robots | c: A field of study in biology that studies plant growth | d: A field of study in economics that analyzes market trends,a
+Which field does machine learning find application in?,a: Astronomy | b: Natural language processing | c: Music theory | d: Fashion design,b
+Who coined the term 'machine learning'?,a: Donald Hebb | b: Tom M. Mitchell | c: Arthur Samuel | d: Walter Pitts,c
+What is the mathematical foundation of machine learning?,a: Algebra | b: Geometry | c: Calculus | d: Mathematical optimization,d
+What is the objective of modern-day machine learning?,a: To classify data based on models | b: To predict future outcomes based on models | c: Both a and b | d: Neither a nor b,c
